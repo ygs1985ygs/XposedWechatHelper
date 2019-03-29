@@ -17,7 +17,7 @@ Q群：<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=7c9e21cbb5d75401
 移除了隐藏“发现页”；  
 ## v1.11 
 更改了实现方式；
-## v1.09 
+## v1.09  
 新增  
 微信登录自动确认；
 ## v1.08 
